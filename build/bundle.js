@@ -318,7 +318,7 @@ var app = function () {
         }
     }
     function ee(i) {
-        let n, s, o, r, l, m, a, p, A, g, O, k, T, M, K, f, E, N, S, F, V, L, C, P = i[1].powered_by_google + "", x = (i[0] ? i[1].stop_animations : i[1].resume_animations) + "", q = i[1].privacy_pocliy + "", j = i[1].terms_of_service + "";
+        let n, s, o, r, l, m, a, p, A, g, O, k, T, M, K, f, E, N, S, F, V, L, C, P = i[1].powered_by_google + "", x = ("") + "", q = i[1].privacy_pocliy + "", j = i[1].terms_of_service + "";
         return {
             c() {
                 n = y("nav"),
@@ -347,7 +347,6 @@ var app = function () {
                     I(l, "class", "flex items-center cursor-default svelte-1hho8ct"),
                     I(l, "role", "menuitem"),
                     I(l, "tabindex", "-1"),
-                    I(l, "aria-label", p = i[1].powered_by_google),
                     U(l, "padding-left", "16px"),
                     U(l, "padding-right", "16px"),
                     I(g, "class", "interactive flex items-center pointer svelte-1hho8ct"),
@@ -34305,7 +34304,7 @@ var app = function () {
             symbol: "Símbolo",
             ar_not_supported: "A RA não é compatível com este dispositivo",
             privacy_pocliy: "Meu perfil do Instagram",
-            powered_by_google: "Tecnologia do Google",
+            powered_by_google: "Opções",
             boiling: "Ebulição",
             facebook: "Facebook",
             back_to_search: "Voltar para a Pesquisa",
