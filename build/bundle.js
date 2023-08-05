@@ -3054,7 +3054,7 @@ var app = function () {
                     m = y("div");
                 for (let e = 0; e < O.length; e += 1)
                     O[e].c();
-                I(t, "class", "f3-ns f4"),
+                I(t, "class", "f3-ns f4 pular-linha"),
                     I(r, "id", "open-share-dialog"),
                     I(r, "class", "open-share-dialog"),
                     I(r, "aria-label", "share"),
@@ -3117,7 +3117,7 @@ var app = function () {
             c() {
                 i = y("div"),
                     n = y("div"),
-                    t = y("h1"),
+                    t = y("a"),
                     s = z(A),
                     o = h(),
                     r = y("button"),
@@ -3126,11 +3126,12 @@ var app = function () {
                     m = y("div");
                 for (let e = 0; e < O.length; e += 1)
                     O[e].c();
-                I(t, "class", "f4-ns f5 normal linkInsta"),
+                I(t, "class", "f4-ns f5 normal"),
+                // I(t, "href", "f4-ns f5 normal"),
                     I(r, "id", "open-share-dialog"),
                     I(r, "aria-label", "share"),
                     I(r, "class", "br2 ml2 svelte-i0pprh"),
-                    I(n, "class", "w-100 flex ml3 items-center"),
+                    I(n, "class", "w-100 flex ml3 items-center pular-linha-desk"),
                     I(m, "class", "flex nowrap overflow-auto"),
                     I(i, "class", "w-100 absolute bottom-0 bg-white flex pl2 pb1 "),
                     U(i, "flex-wrap", "wrap"),
@@ -34315,7 +34316,7 @@ var app = function () {
             pinterest: "Pinterest",
             transition_metal: "Metal de transição",
             noble_gas: "Gás nobre",
-            title: "Projeto feito para a feira de ciências do Colégio Estadual Professor Antônio Valdir Roriz"
+            title: "Projeto feito para a feira de ciências do Colégio Estadual Professor Antônio Valdir Roriz\nAlunos: Wittler"
         }
         , Li = {
             google: "Google",

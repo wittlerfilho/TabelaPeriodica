@@ -1097,3 +1097,13 @@ button.svelte-i0pprh.svelte-i0pprh:hover {
 .closebtn {
     visibility: hidden;
 }
+
+.pular-linha {
+    text-align: center;
+    font-size: 1.1rem;
+    transition: ease-out;
+}
+
+.pular-linha-desk, .pular-linha {
+    white-space: pre-wrap;
+}
