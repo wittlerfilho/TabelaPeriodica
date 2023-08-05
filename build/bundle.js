@@ -591,11 +591,11 @@ var app = function () {
                     I(o, "width", "24"),
                     I(a, "class", "dn"),
                     I(n, "href", "https://www.google.com/search?q=periodic+table"),
-                    I(n, "class", "closebtn near-black br2 f6 flex items-center justify-center svelte-1i45x6y"),
+                    I(n, "class", " tirar"),
                     I(n, "aria-label", "Back to search"),
                     I(g, "class", "pa0 ma0 dib"),
                     I(k, "class", "relative menu-container"),
-                    I(i, "class", "header-container absolute top-0 bg-white black w-100 pa0 ma0 flex items-center justify-between svelte-1i45x6y"),
+                    I(i, "class", "header-container absolute top-0 bg-white black w-100 pa0 ma0 flex items-center justify-between svelte-1i45x6y mudar-flex-header"),
                     I(i, "style", M = `height:${e[2]}; padding-left:12px; ${"s" != e[0] ? "width: min(calc(100% - 320px), 75%)" : ""} `)
             },
             m(t, u) {
@@ -2798,7 +2798,7 @@ var app = function () {
                     I(j, "target", "_blank"),
                     I(j, "class", "link-blue svelte-1b8dv78"),
                     I(P, "class", "pa0 ma0 mr1 ml1 svelte-1b8dv78"),
-                    I(C, "class", "flex pa0 ma0 w-100 center pl3 mb3"),
+                    I(C, "class", "flex pa0 ma0 w-100 center pl3 mb3 tirar"),
                     U(C, "font-size", "0.75rem"),
                     I(m, "class", H = _("w-100 absolute " + ("s" == e[5] ? "shadow-custom bg-white" : "bg-gray-custom")) + " svelte-1b8dv78"),
                     I(m, "style", J = "z-index:10;"),
@@ -34277,7 +34277,7 @@ var app = function () {
             title: "Układ okresowy 3D"
         }
         , Vi = {
-            google: "Tabela Periódica da Horta! 🥬",
+            google: "Tabela Periódica dos Alimentos! 🥬",
             link_copied: "Link copiado para a área de transferência",
             vkontakte: "VKontakte",
             discovered_by: "Descoberto por",
@@ -34303,7 +34303,7 @@ var app = function () {
             bohr_model: "Imagem do alimento que contém em sua composição esse elemento",
             unknown_chemical_properties: "Propriedades químicas desconhecidas",
             symbol: "Símbolo",
-            ar_not_supported: "A RA não é compatível com este dispositivo",
+            ar_not_supported: "Imagen do Alimento",
             privacy_pocliy: "Meu perfil do Instagram",
             powered_by_google: "Opções",
             boiling: "Ebulição",

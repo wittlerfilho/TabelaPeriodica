@@ -1107,3 +1107,11 @@ button.svelte-i0pprh.svelte-i0pprh:hover {
 .pular-linha-desk, .pular-linha {
     white-space: pre-wrap;
 }
+
+.tirar {
+    visibility: hidden;
+}
+
+.mudar-flex-header {
+    align-items: center;
+}
