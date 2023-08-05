@@ -330,7 +330,7 @@ var app = function () {
                     m = y("p"),
                     a = z(P),
                     A = h(),
-                    g = y("li"),
+                    g = y("a"),
                     O = z(x),
                     k = h(),
                     T = y("li"),
@@ -34316,7 +34316,7 @@ var app = function () {
             pinterest: "Pinterest",
             transition_metal: "Metal de transição",
             noble_gas: "Gás nobre",
-            title: "Projeto feito para a feira de ciências do Colégio Estadual Professor Antônio Valdir Roriz\nAlunos: Wittler"
+            title: "Projeto feito para a feira de ciências do Colégio Estadual Professor Antônio Valdir Rorizr"
         }
         , Li = {
             google: "Google",
