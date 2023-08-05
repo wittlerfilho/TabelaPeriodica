@@ -591,7 +591,7 @@ var app = function () {
                     I(o, "width", "24"),
                     I(a, "class", "dn"),
                     I(n, "href", "https://www.google.com/search?q=periodic+table"),
-                    I(n, "class", " tirar"),
+                    I(n, "class", "closebtn near-black br2 f6 flex items-center justify-center svelte-1i45x6y tirar"),
                     I(n, "aria-label", "Back to search"),
                     I(g, "class", "pa0 ma0 dib"),
                     I(k, "class", "relative menu-container"),
