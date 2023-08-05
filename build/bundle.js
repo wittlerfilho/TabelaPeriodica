@@ -34316,7 +34316,7 @@ var app = function () {
             pinterest: "Pinterest",
             transition_metal: "Metal de transição",
             noble_gas: "Gás nobre",
-            title: "Projeto feito para a feira de ciências do Colégio Estadual Professor Antônio Valdir Rorizr"
+            title: "Projeto feito para a feira de ciências do Colégio Estadual Professor Antônio Valdir Roriz"
         }
         , Li = {
             google: "Google",
