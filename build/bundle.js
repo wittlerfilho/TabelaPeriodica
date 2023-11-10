@@ -2475,6 +2475,7 @@ var app = function () {
                     1 & e.$$.dirty && n(11, t = `https://storage.googleapis.com/search-ar-edu/periodic-table/${l.model}/${l.model}.glb`),
                     1 & e.$$.dirty && n(10, s = `https://storage.googleapis.com/search-ar-edu/periodic-table/${l.model}/${l.model}.usdz`),
                     1 & e.$$.dirty && n(9, o = `background-image: url(/images/covers/${l.model}.png);`)
+                    
                 
             }
             ,
