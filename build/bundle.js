@@ -27024,7 +27024,7 @@ var app = function () {
             type_localized: "Ametal reativo",
             melting: "-195.79",
             group: 15,
-            name: "Azoto",
+            name: "Nitrogênio",
             density: "0.808",
             poster: "element_007_nitrogen/element_007_nitrogen_srp_th",
             symbol: "N",
